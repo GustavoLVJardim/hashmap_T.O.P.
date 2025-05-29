@@ -37,11 +37,9 @@ Contribuições são bem-vindas! Abra uma issue para discutir melhorias ou bugs.
 
 ## Autor
 
-Seu Nome
+GustavoLVJardim
 
 ---
 
-## Licença
 
-Este projeto está sob a licença MIT.
 
